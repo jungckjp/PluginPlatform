@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 public class PluginPlatform {
 	
-	public static String PLUGIN_DIR = "plugins";
+	public static String PLUGIN_DIR = ".\\plugins\\";
 	
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("T.E.A.M.");
